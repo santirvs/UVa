@@ -1,7 +1,8 @@
+package UVA11462;
 
 import java.io.*;
 
-//UVa requiere que la clase no sea pública y que se llame Main
+//UVa requiere que la clase no sea pública y que se llame UVA11462.Main
 
 // UVa 11462 - Age Sort
 // Este problema requiere tanto FastInput como FastOutput(StringBuilder)
