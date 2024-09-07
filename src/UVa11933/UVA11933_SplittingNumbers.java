@@ -2,7 +2,7 @@ package UVa11933;
 
 //UVa no acepta packages ni clases públicas
 
-import java.util.StringTokenizer
+import java.util.StringTokenizer;
 import java.util.Scanner;
 
 class Main {
